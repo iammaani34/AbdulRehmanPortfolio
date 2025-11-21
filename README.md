@@ -2,7 +2,7 @@
 Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
 It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
 
-🌐 **Website:** [[kunj-Portfolio]](https://kunj-desai.netlify.app/)
+🌐 **Website:** [[AbdulRehman-Portfolio]](https://abdulrehmanportfolio.netlify.app/)
 
 🖼️ **Screenshots**
 <img width="1902" height="994" alt="Screenshot 2025-11-03 232447" src="https://github.com/user-attachments/assets/6f78ceb0-363c-41e8-9eb9-a26fa814e8ac" />
@@ -40,10 +40,10 @@ To run this project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/kunj2803/kunjdesai-portfolio.git
+git clone https://github.com/iammaani34/AbdulRehmanPortfolio.git
 
 # 2️⃣ Navigate to project directory
-cd kunjdesai-portfolio
+cd AbdulRehmanPortfolio-portfolio
 
 # 3️⃣ Install dependencies
 npm install
@@ -60,23 +60,7 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
 
 If you’d like to collaborate or just say hi 👋, feel free to reach out!
 
-* 📧 **Email:** [kunjd2803@gmail.com](mailto:kunjd2803@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/kunj-desai-07717b293](https://www.linkedin.com/in/kunj-desai-07717b293/)
+* 📧 **Email:** [iammaani31@gmail.com](mailto:iammaani31@gmail.com)
 
----
-
-## 🌟 Deployment
-
-Deployed seamlessly on **Vercel** for continuous integration and fast CDN delivery.
-Every push to the `main` branch triggers an automatic rebuild and deployment.
-
----
-
-### 🏁 License
-
-This project is open source and available under the [MIT License](LICENSE).
-Feel free to fork, use, and build upon it ⭐
-
----
 
 > *“Showcasing my work and passion through technology 💻”*
